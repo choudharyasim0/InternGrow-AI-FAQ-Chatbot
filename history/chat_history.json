@@ -1,0 +1,32 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence is the simulation of human intelligence in machines that can learn, reason, and solve problems.",
+        "timestamp": "2026-07-30 00:39:55"
+    },
+    {
+        "question": "Explain Machine Learning",
+        "answer": "Machine Learning is a branch of AI that enables computers to learn patterns from data without explicit programming.",
+        "timestamp": "2026-07-30 00:39:59"
+    },
+    {
+        "question": "What is Flask?",
+        "answer": "Flask is a lightweight Python web framework used to build web applications.",
+        "timestamp": "2026-07-30 00:40:01"
+    },
+    {
+        "question": "Explain NLP",
+        "answer": "Natural Language Processing enables computers to understand and process human language.",
+        "timestamp": "2026-07-30 00:40:03"
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a popular programming language used for AI, Machine Learning, Web Development and Automation.",
+        "timestamp": "2026-07-30 00:40:05"
+    },
+    {
+        "question": "What is Data Science",
+        "answer": "Data Science extracts meaningful insights from structured and unstructured data.",
+        "timestamp": "2026-07-30 00:40:30"
+    }
+]
